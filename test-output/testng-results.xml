@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-21T22:35:10 IST" name="Default suite" finished-at="2022-11-21T22:35:12 IST" duration-ms="2346">
+    <groups>
+    </groups>
+    <test started-at="2022-11-21T22:35:10 IST" name="Default test" finished-at="2022-11-21T22:35:12 IST" duration-ms="2346">
+      <class name="ParameterizeAPITestsMultipleDataSetsSection7">
+        <test-method signature="AddBook(java.lang.String,java.lang.String)[pri:0, instance:ParameterizeAPITestsMultipleDataSetsSection7@16610890]" started-at="2022-11-21T22:35:10 IST" name="AddBook" data-provider="BookData" finished-at="2022-11-21T22:35:12 IST" duration-ms="1880" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gaka]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mdsa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddBook -->
+        <test-method signature="AddBook(java.lang.String,java.lang.String)[pri:0, instance:ParameterizeAPITestsMultipleDataSetsSection7@16610890]" started-at="2022-11-21T22:35:12 IST" name="AddBook" data-provider="BookData" finished-at="2022-11-21T22:35:12 IST" duration-ms="216" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[asgha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[urha]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddBook -->
+        <test-method signature="AddBook(java.lang.String,java.lang.String)[pri:0, instance:ParameterizeAPITestsMultipleDataSetsSection7@16610890]" started-at="2022-11-21T22:35:12 IST" name="AddBook" data-provider="BookData" finished-at="2022-11-21T22:35:12 IST" duration-ms="213" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ywha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rtba]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddBook -->
+      </class> <!-- ParameterizeAPITestsMultipleDataSetsSection7 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
